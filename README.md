@@ -1,7 +1,5 @@
 # Trello Clone iOS App - SwiftUI
 
-![Alt text](./promo.jpg?raw=true "SwiftUI Trello Clone iOS App")
-
 A Trello Clone App for iOS built with SwiftUI.
 
 ## Features
@@ -17,11 +15,3 @@ The app has several main features:
 - OnDrag & OnDrop Modifiers with 
 - Drop Delegate.
 
-## Getting Started
-- Download Xcode 13 from App Store.
-
-## Installation
-- Build and run the project using Xcode 13 and iOS 15.
-
-## Tutorial
-This project is based on the YouTube tutorial series that you can watch at Build a Trello Clone iOS App with SwiftUI[YouTube](https://youtu.be/Of_20rSjk7Y).
